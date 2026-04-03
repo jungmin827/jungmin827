@@ -6,6 +6,15 @@
 
 ---
 
+## 🚀 Current Building Project: NichE
+<a href="https://github.com/jungmin827/NichE">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&text=NichE&fontName=Helvetica&fontSize=70&fontAlignY=50&fontColor=ffffff" width="100%">
+</a>
+
+<p align="middle"><b>Deep Dive & Archive & Share</b></p>
+
+---
+
 ## 🚀 My Stack 
 
 ### 💻 인공지능 & 프로그래밍
@@ -16,6 +25,10 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![vLLM](https://img.shields.io/badge/vLLM-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 
+### 🗄️ 데이터베이스
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0052CC?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### ☁️ 클라우드 & 인프라  
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
