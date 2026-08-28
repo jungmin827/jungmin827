@@ -2,16 +2,6 @@
 
 - 생성형 AI와 에이전트 기술을 통해 유저와 서비스 사이의 밀도 높은 상호작용을 설계하려고 합니다.
 - 기술이 도메인이 가진 유니크한 본질을 완벽히 구현할 때 비로소 유저가 깊이 몰입할 수 있다고 믿습니다.
-- 일상의 흐름 속에 자연스럽게 스며드는 AI 서비스를 빌드하는 데 집중하고 있습니다
-
----
-
-## 🚀 Current Building Project: NichE
-<a href="https://github.com/jungmin827/NichE">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&text=NichE&fontName=Helvetica&fontSize=70&fontAlignY=50&fontColor=ffffff" width="100%">
-</a>
-
-<p align="middle"><b>Deep Dive & Archive & Share</b></p>
 
 ---
 
