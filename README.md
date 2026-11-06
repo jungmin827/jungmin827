@@ -1,5 +1,15 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Jungmin%20Park&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20Engineer&descSize=20&descAlignY=58&animation=fadeIn" alt="header" />
+</p>
+
 ## 👋 Hello, I'm Jungmin Park!
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=600&lines=AI+Engineer+%40+Truevalue;Serving+LLMs+on+Local+Infrastructure;Building+Hybrid+EdTech+Infrastructure" alt="typing" />
+</p>
+
+- 🏢 현재 **트루밸류**에서 **AI 엔지니어**로 일하고 있습니다.
+- 🖥️ 실제 AI 모델을 로컬 인프라에 직접 서빙하며, **하이브리드 교육 인프라 혁신**에 대비한 여러 프로덕트를 개발하고 있습니다.
 - 생성형 AI와 에이전트 기술을 통해 유저와 서비스 사이의 밀도 높은 상호작용을 설계하려고 합니다.
 - 기술이 도메인이 가진 유니크한 본질을 완벽히 구현할 때 비로소 유저가 깊이 몰입할 수 있다고 믿습니다.
 
@@ -39,5 +49,10 @@
 ## 📊 GitHub
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jungmin827&theme=tokyonight)  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jungmin827/jungmin827/output/github-snake-dark.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/jungmin827/jungmin827/output/github-snake.svg" />
+</picture>
 
 ---
