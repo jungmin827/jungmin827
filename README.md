@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Jungmin%20Park&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20Engineer&descSize=20&descAlignY=58&animation=fadeIn" alt="header" />
-</p>
-
 ## 👋 Hello, I'm Jungmin Park!
 
 <p align="center">
