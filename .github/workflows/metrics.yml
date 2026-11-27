@@ -23,10 +23,6 @@ jobs:
           config_display: large
           base: header, repositories
 
-          # 1년치 잔디 (isometric) — snake 대체
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
           # 사용 언어 비율
           plugin_languages: yes
           plugin_languages_limit: 6
