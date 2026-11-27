@@ -8,20 +8,24 @@
 
 ## Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,python,fastapi,ts,react,java,spring&perline=7" alt="languages and frameworks" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,gcp,docker&perline=7" alt="data and infra" />
-</p>
+**🤖 AI**<br/>
+<img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" height="40" />&nbsp;
+<img src="https://img.shields.io/badge/vLLM-FF6F00?style=flat-square" alt="vLLM" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
 
-![vLLM](https://img.shields.io/badge/vLLM-FF6F00?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square)
-![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white)
-![NVIDIA DGX](https://img.shields.io/badge/NVIDIA_DGX-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+**💻 Language & Framework**<br/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,ts,react,java,spring" alt="Python, FastAPI, TypeScript, React, Java, Spring" height="40" />&nbsp;
+<img src="https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white" alt="Jinja2" />
+
+**🗄️ Database**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="PostgreSQL, MySQL, MongoDB" height="40" />&nbsp;
+<img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square" alt="ChromaDB" />
+
+**☁️ Infra**<br/>
+<img src="https://skillicons.dev/icons?i=gcp,docker" alt="GCP, Docker" height="40" />&nbsp;
+<img src="https://img.shields.io/badge/NVIDIA_DGX-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA DGX" />
+<img src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white" alt="Tailscale" />
+<img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" alt="JMeter" />
 
 ## Activity
 
