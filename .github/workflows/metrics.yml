@@ -33,9 +33,3 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_ignored: html, css, shell, dockerfile, jupyter notebook
           plugin_languages_colors: github
-
-          # 커밋 시간대/요일 습관
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_charts: yes
-          plugin_habits_languages_limit: 0
